@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <!-- Target framework, nullable & implicit usings come from Directory.Build.props.
+       No NuGet packages needed: everything used here ships with ASP.NET Core. -->
+  <PropertyGroup>
+    <RootNamespace>DemoApp</RootNamespace>
+  </PropertyGroup>
+
+</Project>

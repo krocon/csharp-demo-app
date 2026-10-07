@@ -1,1 +1,16 @@
+# .NET build output
+bin/
+obj/
+*.user
+TestResults/
+
+# JetBrains Rider / IntelliJ
 /.idea/
+*.DotSettings.user
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# OS
+.DS_Store
